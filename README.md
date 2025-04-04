@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hey there! I'm [Black-Blueberry]  
+Aspiring Mechanical Engineer | Hackathon Enthusiast | Learning Tech for the Future 🚀
 
-<!--
-**Black-Blueberry/Black-Blueberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning: Python, Web Dev, CAD & AI  
+- 💻 Participated in: Global IME Hackathon 2025 (Concept Paper: Fake Transaction Detection)  
+- 🔭 Preparing for: DeerHack 2025  
+- 🛠️ Tools: Python, HTML/CSS, Git, Figma (Learning...)  
+- 🤝 Open to collaborations, team projects, and cool challenges!
 
-Here are some ideas to get you started:
+- 
+### 🧩 My Goals:
+- 🚀 Participate in Hackathons & Build Real Projects
+- ✍️ Learn daily and showcase my journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### 📌 Latest:
+- ✅ Submitted concept paper for Global IME Hackathon 2025
+- 🛠️ Learning Git, GitHub, Python basics, HTML/CSS
+
+
+📫 Reach me on:  
+| thesimantsingh2515@gmail.com |
+
+
+
+
